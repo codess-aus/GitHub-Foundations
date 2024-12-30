@@ -69,3 +69,39 @@
 2. GitHub Copilot Enterprise has chat in IDE and mobile, whereas GitHub Copilot Business doesn't.
 3. **GitHub Copilot Enterprise has an extra layer of personalization. Organizations use their own codebase to train GitHub Copilot.**
 4. GitHub Copilot Enterprise has an extra layer of security, with IP indemnity and enterprise-grade security, safety, and privacy.
+
+## Which directory is the clone placed in after creating a Codespace? 
+
+**/workspaces directory**
+
+/temp directory
+
+~/.bashrc directory
+
+Linux directory
+
+## What's the maximum number of Codespaces that you can create per repository or branch? 
+
+You can only create two Codespaces.
+
+You can create a total of 10 Codespaces.
+
+You can create a total of 30 Codespaces.
+
+**You can create an unlimited number of Codespaces per repository or branch, depending upon available space. When you reach an upper amount of resources, a message displays that an existing Codespace needs to removed/deleted before a new Codespace can be created.**
+
+## What happens when Codespace loses internet connectivity? 
+
+**If the connection to the internet is lost while working in a Codespace, you aren't able to access your Codespace.**
+
+Codespace doesn't require an internet connection. I can access my Codespace regardless if I lose connectivity.
+
+If you lose internet connection while working on your Codespace, your changes aren't saved.
+
+## What defines the beginning of a Codespace's lifecycle? 
+
+**A Codespace's lifecycle begins when you create a Codespace and ends when you delete it.**
+
+A Codespace's lifecycle begins immediately when GitHub is opened and ends when the software is closed.
+
+A Codespace's lifecycle begins when a repository is created and ends when you delete it.
