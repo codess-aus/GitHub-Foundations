@@ -21,3 +21,30 @@
 1. git init
 2. git status
 3. **git help**
+
+## What's the difference between GitHub organization accounts and GitHub personal/user accounts? 
+
+1. **Organizational accounts are shared accounts, while personal/user accounts are for individuals.**
+2. You pay more for organization accounts versus personal/user accounts.
+3. They're exactly the same.
+4. Personal/user accounts have more access than organization accounts.
+
+## What's the best reason to decide to upgrade to the GitHub Enterprise product? 
+
+1. Because you want to use GitHub Actions and Codespaces.
+2. Because your VP needs to use GitHub Insights.
+3. **Because you want to centrally manage users and repositories across multiple organizations.**
+4. Because you want to use the team pull request reviewers feature.
+
+##What's the purpose of a team? 
+1. A team allows you to manage an organization account.
+2. A team allows you to control permission levels for an enterprise.
+3. A team allows a single user to sign in using different accounts credentials.
+4. **A team is intended to reflect a company or group's structure. It's used to provide cascading access permissions and make it easy to notify all team members via mentions.**
+
+## What's a function you can execute on GitHub Mobile? 
+
+1. Check out branches with pull requests and view CI statuses.
+2. Compare changed image.s
+3. Add and clone repositories.
+4. ** Manage, triage, and clear notifications from github.com.**
