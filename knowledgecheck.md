@@ -48,3 +48,24 @@
 2. Compare changed image.s
 3. Add and clone repositories.
 4. ** Manage, triage, and clear notifications from github.com.**
+
+## What is GitHub Copilot? 
+
+1. **GitHub Copilot is an AI pair programmer that you can use to get code suggestions.**
+2. GitHub Copilot is OpenAI Codex, a new AI system that OpenAI created.
+3. GitHub Copilot is a JavaScript public repository and is one of the best-supported languages.
+4. GitHub Copilot can write a comment that describes logic, and you can add your suggested code to implement the solution.
+
+## What are the supported IDE extensions for GitHub Copilot? 
+
+1. VS Code and Visual Studio
+2. GitHub.com, VS Code, Visual Studio, Neovim, and JetBrains
+3. **VS Code, Visual Studio, Neovim, and JetBrains**
+   Although GitHub.com is supported, it doesn't need an extension.
+
+## What is the difference between GitHub Copilot Business and GitHub Copilot Enterprise? 
+
+1. GitHub Copilot Enterprise has code completions, whereas GitHub Copilot Business doesn't.
+2. GitHub Copilot Enterprise has chat in IDE and mobile, whereas GitHub Copilot Business doesn't.
+3. **GitHub Copilot Enterprise has an extra layer of personalization. Organizations use their own codebase to train GitHub Copilot.**
+4. GitHub Copilot Enterprise has an extra layer of security, with IP indemnity and enterprise-grade security, safety, and privacy.
