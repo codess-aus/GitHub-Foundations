@@ -84,3 +84,35 @@ When setting up a new repo, linking it to a remote is often one of the first tas
 ```
 git remote add origin https://github.com/user/
 ```
+## git pull and git push - sync local and remote changes
+```
+# pull changes from remote
+git pull origin main
+
+# push changes to remote
+git push origin main
+```
+
+## git reset <commit> - undo recent commits
+git reset helps you undo commits by moving the HEAD pointer to a specific commit. Use it to clean out commits that are mistakes. Be careful when using it, as it alters the commit history. This is the code to use to cover up crimes...
+
+```
+# Undo to the previous commit
+git reset HEAD-1
+```
+
+## git stash - temporarily save changes without committing
+
+```
+git stash
+# for untracked files you'd like to stash
+git stash -u
+
+```
+
+## git reflog - access historical changes and recover lost commits
+If something goes wrong, reflog can provide a trail to recover lost changes.
+
+```
+git reflog
+```
