@@ -29,5 +29,58 @@ This command creates a snapshot of your current changes with a message, making i
 ```
 git commit -m "Implement user login feature"
 ```
+## git add [-p] - stage changes in parts
+Sometimes you only want to commit specific changes from a file. git add -p (patch) lets you review and add individual changes in parts, making it easier to keep each comment focused on a single task.
+```
+git add -p
+```
+This command allows you to keep commits clean and organized. It's invaluable when working on multiple fixes and features simultaneously.
 
+## git status - check your workspaces current state
+This command gives you a quick look at your working directory. It shows what is staged, modified and untracked. This command is essential to avoid committing changes you didn't intend to.
+```
+git status
+```
+## git log - review commit history
+Provides a detailed commit history showing all commits, authors and timestamps. Using git log --oneline is also helpful when you want a more concise view of the commit history, with each commit condensed into a single line.
+```
+# full commit history
+git log
+# condensed history
+git log --oneline
+```
 
+## git diff - view changes between commits or states
+git diff is invaluable for viewing changes between your working directory and the last commit. 
+
+```
+git diff
+```
+## git branch - list, create, and delete branches
+```
+# List all branches
+git branch
+
+# create a new branch
+git branch feature-login
+
+# delete a branch
+git branch -d feature-login
+```
+## git checkout - switch or create new branches
+git checkout <branch> lets you move between branches whilst git checkout -b <new-branch> creates a new branch and switches to it immediately.
+```
+# Switch to an existing branch called feature-login
+git checkout feature-login
+
+# create and switch to a new branch called feature-signup
+git checkout -b feature-signup
+
+# delete a branch
+git branch -d feature-login
+```
+## git remote add origin - link local and remote repositories
+When setting up a new repo, linking it to a remote is often one of the first tasks. git remote add origin connects your local repo to a remote, making it ready for collaborative work.
+```
+git remote add origin https://github.com/user/
+```
