@@ -105,3 +105,47 @@ If you lose internet connection while working on your Codespace, your changes ar
 A Codespace's lifecycle begins immediately when GitHub is opened and ends when the software is closed.
 
 A Codespace's lifecycle begins when a repository is created and ends when you delete it.
+
+## What Project descriptor automatically saves when you change it? 
+
+**Project name**
+
+Project description
+
+Project README
+
+## What does an iteration field help you do in Projects? 
+
+Allows you to keep track of the various changes made to an issue or pull request.
+
+Allows you to reverse the changes you made to your Project.
+
+**Allows you to create sequential phases of your project and group issues and pull requests based on the phase.**
+
+***An iteration field helps you and your team organize your Project into different phases. The value of the field allows you to prioritize what comes first. Setting priorities allows you to implement timelines to keep you on track and accomplish your goals.***
+
+## What field can you use in order to make a Priority grouping like High, Medium, and Low in your Project? 
+
+Date
+
+**Single select**
+***The Single select field allows you to create multiple groups like Priority grouping in order to help you organize and prioritize your Project.***
+
+Iteration field
+
+## What is the easiest way to add automation to your Project? 
+
+GraphQL API
+
+**Built-in Automation**
+***Built-in automation built within Projects allows you a simple way to automate your Project.***
+
+GitHub Actions
+
+## What is the name of the section where you can change the visibility of your Project, close your Project, or delete your Project? 
+
+Red zone
+
+Visibility and Access
+
+**Danger zone**
