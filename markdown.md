@@ -30,8 +30,12 @@ To use a literal asterisk, precede it with an escape character; in GFM, that's a
 ## Declare headings
 HTML provides content headings such as the \<h1> tag. In Markdown, this is supported via the \# symbol. Just use one \# for each heading level from 1 to 6.
 ```
+# This is H1 text
+## This is H2 text
 ###### This is H6 text
 ```
+# This is H1 text
+## This is H2 text
 ###### This is H6 text
 
 ## Link to images and sites
