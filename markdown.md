@@ -125,3 +125,8 @@ You can create task lists within issues or pull requests using the following syn
 /tasklist	Inserts a tasklist. This slash command only works in an issue description.
 
 /template	Shows all of the templates in the repository. You choose the template to insert. This slash command works for issue templates and a pull request template.
+
+[Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+[GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
+[GitHub Markdown emojis](https://gist.github.com/rxaviers/7360908)
+[Autolinked references and URLs](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/autolinked-references-and-urls)
