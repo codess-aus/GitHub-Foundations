@@ -6,24 +6,29 @@ Markdown is a markup language that offers a lean approach to content editing by 
 This is *italic* text.
 This is also _italic_ text.
 ```
-
+This is *italic* text.
+This is also _italic_ text.
 ```
 This is **bold** text.
 This is also __bold__ text.
 ```
-
+This is **bold** text.
+This is also __bold__ text.
 ```
 _This is **italic and bold** text_ using a single underscore for italic and double asterisks for bold.
 __This is bold and *italic* text__ using double underscores for bold and single asterisks for italic.
 ```
+_This is **italic and bold** text_ using a single underscore for italic and double asterisks for bold.
+__This is bold and *italic* text__ using double underscores for bold and single asterisks for italic.
 
 To use a literal asterisk, precede it with an escape character; in GFM, that's a backslash (\). This example results in the underscores and asterisks being shown in the output.
 ```
 \_This is all \*\*plain\*\* text\_.
 ```
+\_This is all \*\*plain\*\* text\_.
 
 ## Declare headings
-HTML provides content headings such as the <h1> tag. In Markdown, this is supported via the # symbol. Just use one # for each heading level from 1 to 6.
+HTML provides content headings such as the <h1> tag. In Markdown, this is supported via the \# symbol. Just use one \# for each heading level from 1 to 6.
 ```
 ###### This is H6 text
 ```
@@ -78,7 +83,7 @@ This is `code`.
 This is `code`.
 
 If you have a code segment spanning multiple lines, you can use three backticks (```) before and after to create a fenced code block.
-```
+
 ```markdown
 var first = 1;
 var second = 2;
@@ -92,4 +97,4 @@ var sum = first + second;
 var first = 1;
 var second = 2;
 var sum = first + second;
-```
+
