@@ -43,7 +43,7 @@ Image and site links use a similar syntax.
 ```
 ![Link an image.](/learn/azure-devops/shared/media/mara.png)
 ```
-![Link an image.](/learn/azure-devops/shared/media/mara.png)
+![Link an image.](https://github.com/codess-aus/GitHub-Foundations/blob/e7e7d19be97adf1cf130f8d134ad4708e4ce6702/images/codess-aus.png)
 
 ```
 [Link to Microsoft Training](/training)
