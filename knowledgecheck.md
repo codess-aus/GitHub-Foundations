@@ -152,15 +152,15 @@ Visibility and Access
 
 ## Which of the following Markdown snippets produces the text Hello, world! in bold italics? 
 
-\*Hello, *world*!*
+\*Hello, \*world\*!\*
 
-\**Hello, *world*!**
+\*\*Hello, \*world\*!\*\*
 
-\***Hello, world!***
+\*\*\*Hello, world!\*\*\*
 ***Hello, world!***
 **bold** is produced with two asterix on either side of the word and *italics* with one on each side. You can also use underscores (_) instead of asterisks if you prefer.
 
-\### Hello, world!
+\#\#\# Hello, world!
 
 ## How do you print certain characters, like asterisks (*) and underscores (_), literally on your output? 
 
