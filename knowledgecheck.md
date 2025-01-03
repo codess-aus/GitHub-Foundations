@@ -157,8 +157,8 @@ Visibility and Access
 \*\*Hello, \*world\*!\*\*
 
 \*\*\*Hello, world!\*\*\*
-***Hello, world!***
 
+***Hello, world!***
 **bold** is produced with two asterix on either side of the word and *italics* with one on each side. You can also use underscores (_) instead of asterisks if you prefer.
 
 \#\#\# Hello, world!
