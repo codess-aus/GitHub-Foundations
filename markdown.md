@@ -115,8 +115,13 @@ You can create task lists within issues or pull requests using the following syn
 
 ## Command	Description
 /code	Inserts a Markdown code block. You choose the language.
+
 /details	Inserts a collapsible detail area. You choose the title and content.
+
 /saved-replies	Inserts a saved reply. You choose from the saved replies for your user account. If you add %cursor% to your saved reply, the slash command places the cursor in that location.
+
 /table	Inserts a Markdown table. You choose the number of columns and rows.
+
 /tasklist	Inserts a tasklist. This slash command only works in an issue description.
+
 /template	Shows all of the templates in the repository. You choose the template to insert. This slash command works for issue templates and a pull request template.
