@@ -149,3 +149,33 @@ Red zone
 Visibility and Access
 
 **Danger zone**
+
+## Which of the following Markdown snippets produces the text Hello, world! in bold italics? 
+
+\*Hello, *world*!*
+
+\**Hello, *world*!**
+
+\***Hello, world!***
+***Hello, world!***
+**bold** is produced with two asterix on either side of the word and *italics* with one on each side. You can also use underscores (_) instead of asterisks if you prefer.
+
+\### Hello, world!
+
+## How do you print certain characters, like asterisks (*) and underscores (_), literally on your output? 
+
+Use three in a row, like *** or ___.
+
+**Escape them with a backslash, like \* or \_.**
+You can also escape other reserved characters, including { and #, using backslashes.
+
+Unfortunately, this isn't supported at this time.
+
+## Suppose there's an HTML snippet that you want to include on your GitHub Pages web site, but Markdown doesn't offer a way to render it. What should you do? 
+
+**Just add the HTML inline.**
+Markdown isn't a complete replacement for HTML. You might need to add HTML to get the final results you're looking for.
+
+Cut the content. If it's not supported in Markdown, then it's probably not worth including.
+
+Open an issue that requests Markdown support for your specialized scenario.
