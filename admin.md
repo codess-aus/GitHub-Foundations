@@ -20,3 +20,14 @@
 - Set up billing or assign a billing manager for the organization.
 - Extract various types of information about repositories via the use of custom scripts.
 - Apply organization-wide changes such as migrations using custom scripts.
+
+## At the enterprise level, members of an enterprise with the owner permissions can:
+
+- Enable security assertion markup language (SAML) single sign-on for their enterprise account, allowing each enterprise member to link their external identity on your IdP to their existing GitHub account.
+- Add or remove organizations from the enterprise.
+- Set up billing or assign a billing manager for all organizations in the enterprise.
+- Set up repository management policies, project board policies, team policies, and other security settings that apply to all the organizations, repositories, and members in the enterprise.
+- Extract various types of information about organizations via the use of custom scripts.
+- Apply enterprise-wide changes such as migrations via the use of custom scripts.
+
+  
