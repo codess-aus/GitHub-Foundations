@@ -43,3 +43,12 @@ TOTP apps support the secure backup of your authentication codes in the cloud, a
 Short Message Service (SMS)
 
 Security Key
+
+Here are some links to more detailed information on the topics we discussed in this module:
+
+[Managing SAML single sign-on for your organization](https://docs.github.com/enterprise-cloud@latest/organizations/managing-saml-single-sign-on-for-your-organization)
+[Viewing and managing a member's SAML access to your organization](https://docs.github.com/enterprise-cloud@latest/organizations/granting-access-to-your-organization-with-saml-single-sign-on/viewing-and-managing-a-members-saml-access-to-your-organization)
+[Preparing to require two-factor authentication in your organization](https://docs.github.com/organizations/keeping-your-organization-secure/managing-two-factor-authentication-for-your-organization/preparing-to-require-two-factor-authentication-in-your-organization)
+[Authorizing a personal access token for use with SAML single sign-on](https://docs.github.com/enterprise-cloud@latest/authentication/authenticating-with-saml-single-sign-on/authorizing-a-personal-access-token-for-use-with-saml-single-sign-on)
+[Authorizing an SSH key for use with SAML single sign-on](https://docs.github.com/enterprise-cloud@latest/authentication/authenticating-with-saml-single-sign-on/authorizing-an-ssh-key-for-use-with-saml-single-sign-on)
+[Synchronizing a team with an identity provider](https://docs.github.com/enterprise-cloud@latest/organizations/organizing-members-into-teams/synchronizing-a-team-with-an-identity-provider-group)
