@@ -30,4 +30,16 @@
 - Extract various types of information about organizations via the use of custom scripts.
 - Apply enterprise-wide changes such as migrations via the use of custom scripts.
 
-  
+## Protection rules that can be applied to a branch include:
+
+-Require a pull request before merging.
+- Require status checks to pass before merging.
+- Require conversation resolution before merging.
+- Require signed commits.
+- Require linear history.
+- Require merge queue.
+- Require deployments to succeed before merging.
+- Lock the branch by making it read-only.
+- Restrict who can push to matching branches.
+- Additionally, you can set branch rules that apply to everyone, including administrators. For example, you can allow force pushes to matching branches and allow deletions from users who have push access  
+
