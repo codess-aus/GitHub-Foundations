@@ -19,4 +19,4 @@
 - Set up organization security.
 - Set up billing or assign a billing manager for the organization.
 - Extract various types of information about repositories via the use of custom scripts.
-- Apply organization-wide changes such as migrations via the use of custom scripts.
+- Apply organization-wide changes such as migrations using custom scripts.
