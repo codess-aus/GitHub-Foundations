@@ -180,3 +180,36 @@ Markdown isn't a complete replacement for HTML. You might need to add HTML to ge
 Cut the content. If it's not supported in Markdown, then it's probably not worth including.
 
 Open an issue that requests Markdown support for your specialized scenario.
+
+## You want to grant a user the permissions required to add and remove organization members to and from a team. Which permission would you need to grant that user? 
+
+The admin permission on a repository
+
+The maintain permission on a repository
+
+Organization billing manager
+
+**Team maintainer**
+As a team maintainer, the user can add and remove organization members to and from a team.
+
+## As an organization owner, you want to ensure that everyone who is signed in to your corporate network can access the GitHub website without requiring a second sign-in. Which technology would you enable to accomplish this? 
+
+**Single sign-on**
+Single sign-on is the right technology to allow network users to access the GitHub website without extra sign-ins.
+
+Two-factor authentication
+
+Personal Access Tokens
+
+SSH keys
+
+## What's the appropriate repository permission level for contributors who need to actively push changes to your repository? 
+
+Admin
+
+**Write**
+The write permission is the appropriate permission level.
+
+Triage
+
+Maintain
