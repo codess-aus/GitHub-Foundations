@@ -242,3 +242,30 @@ Contributors always appreciate when reviewers show an interest in getting their 
 Leave single comments for each issue you come across, but don't change the code. For typos, include the correct spelling of the word as a reference. Approve the pull request if you trust the author to implement your suggestions.
 
 Reject the pull request. We can't risk any bugs accidentally being merged into an important branch.
+
+## How does GitHub's top-level search bar differ from the search options available on repository tabs? 
+
+Other than being located in different parts of the user interface, they are otherwise the same.
+
+They support different filter syntax options.
+
+**The top-level search bar supports searching everything across all of GitHub, whereas the repository tab searches are scoped to cover specific types in the current repository.**
+The top-level search allows the most flexibility, whereas the scoped tab searches provide popular filter dropdowns for easier refinement.
+
+## What does git blame do? 
+
+It creates a bug assigned to the last person who committed changes to the specified file.
+
+**It displays the commit history of the file.**
+Despite the accusatory name, git blame is just a command to display commit history.
+
+It reverts the effects of a git praise command.
+
+## Suppose a bug issue is reported on your project, and you know which pull request introduced the problem. Which of the following options is not a cross-linking best practice? 
+
+**Do not create cross-links when the root cause of the issue is already known.**
+It's a good practice to always add cross-links in case you or someone else needs the context later on.
+
+Add a comment to the bug report that includes the pull request's author by using an @mention.
+
+Add a comment to the bug report that links the pull request to it using the #ID syntax.
