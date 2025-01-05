@@ -229,7 +229,7 @@ Pull requests don't work this way. Also, the etiquette is for you to be sure you
 Clearly explain the pull request policy in CONTRIBUTING.md.
 
 **Use a CODEOWNERS file and enable required reviews.**
-A CODEOWNERS file enables you to assign users or teams as required reviewers using the same syntax as .gitingore files.
+A CODEOWNERS file enables you to assign users or teams as required reviewers using the same syntax as .gitignore files.
 
 
 Add a table that maps directory paths to required users in SECURITY.md.
