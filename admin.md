@@ -1,3 +1,5 @@
+# Admin
+
 ## Members of a team with team maintainer or repository admin permissions can:
 
 - Create a new team and select or change the parent team.
