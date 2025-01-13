@@ -346,3 +346,15 @@ Deny
 Applaud
 
 [💡Hint](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/about-pull-request-reviews#about-pull-request-reviews)
+
+## What are the different available options for adding issues and pull requests to a GitHub Project board?
+
+**Individually, automatically, or in bulk.**
+
+Only individually or in bulk
+
+Only manually, one at a time.
+
+Only automatically using project workflows
+
+[💡Hint](https://docs.github.com/en/issues/planning-and-tracking-with-projects/managing-items-in-your-project/adding-items-to-your-project#adding-issues-and-pull-requests-to-a-project)
