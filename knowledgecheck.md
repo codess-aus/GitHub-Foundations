@@ -410,6 +410,22 @@ It's a link to the most recent GitHub Codespace that you have used in any reposi
 
 [💡Hint](https://docs.github.com/en/codespaces/setting-up-your-project-for-codespaces/setting-up-your-repository/facilitating-quick-creation-and-resumption-of-codespaces#configuring-more-options)
 
+## Why would a repository owner want to use milestones? (Choose two.)
+
+**To associate issues and pull requests with specific project phases**
+
+To communicate that the repository is in a stable state
+
+**To have an overview of how much work is left to complete a project phase**
+
+To list the repository contributors
+
+To track the repository dependencies
+
+To bring automation to the repository
+
+[💡Hint](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/about-milestones)
+
 
 
 
