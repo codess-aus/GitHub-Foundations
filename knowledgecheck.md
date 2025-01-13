@@ -317,4 +317,16 @@ How well your extensions were installed.
 **How well you crafted your prompt.**
 Designing an effective prompt is, therefore, crucial in ensuring we achieve our desired outcomes. You need to detail your prompt as much as possible.
 
+## GitHub Action workflows are triggered by events. Which of these are valid events that GitHub Actions support? (Choose two.)
 
+A new member has been added to the repository
+
+A change is made to the repository settings
+
+A new vulnerability has been detected in a dependency
+
+**A commit is pushed to a branch**
+
+**A pull request is opened**
+
+[💡Hint](https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows#about-events-that-trigger-workflows)
