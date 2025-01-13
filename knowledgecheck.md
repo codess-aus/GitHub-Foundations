@@ -358,3 +358,19 @@ Only manually, one at a time.
 Only automatically using project workflows
 
 [💡Hint](https://docs.github.com/en/issues/planning-and-tracking-with-projects/managing-items-in-your-project/adding-items-to-your-project#adding-issues-and-pull-requests-to-a-project)
+
+## What feature is unique to GitHub Desktop compared to github.com?
+
+View repository insights
+
+**Visualize branch histories in a graphical interface**
+
+Create new repositories
+
+Clone repositories to local machine
+
+[💡Hint](https://docs.github.com/en/desktop/making-changes-in-a-branch/viewing-the-branch-history-in-github-desktop)
+[💡💡Hint2](https://docs.github.com/en/repositories/viewing-activity-and-data-for-your-repository/using-the-activity-view-to-see-changes-to-a-repository)
+
+GitHub Desktop provides a graphical interface for visualizing branch histories, which is unique compared to the website
+
