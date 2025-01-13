@@ -426,7 +426,49 @@ To bring automation to the repository
 
 [💡Hint](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/about-milestones)
 
+## What is CodeQL?
 
+**A code analysis tool**
+
+A programming language
+
+A version control system
+
+A text editor
+
+[💡Hint](https://codeql.github.com/)
+
+## What are the different forms of two-factor or multi-factor authentication supported by GitHub? (Choose five.)
+
+Email
+
+Phone call
+
+**Passkey**
+
+**Text message**
+
+**Security key**
+
+**Time-based one-time password (TOTP)**
+
+**GitHub mobile**
+
+[💡Hint](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa/accessing-github-using-two-factor-authentication)
+
+## What are some actions you can do in regards to Project Templates in your organization? (Choose three.)
+
+Publish your templates in GitHub Marketplace for anyone to use
+
+**Create a new template to be used as a base for new projects**
+
+**With write permission, set an existing project as a template**
+
+**With admin or write permissions, copy an existing project as a template**
+
+Configure recommended templates to your organization's members
+
+[💡Hint](https://docs.github.com/en/issues/planning-and-tracking-with-projects/managing-your-project/managing-project-templates-in-your-organization)
 
 
 
