@@ -386,4 +386,21 @@ It's a visual code editor that allows you to edit your source code in the browse
 
 [💡Hint](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories)
 
+## Which of the GitHub features best serves as a simple way to share small code snippets with others?
+
+Issues
+
+Projects
+
+Wikis
+
+**Gists**
+
+[💡Hint](https://docs.github.com/en/get-started/writing-on-github/editing-and-sharing-content-with-gists/creating-gists)
+
+
+
+
+
+
 
