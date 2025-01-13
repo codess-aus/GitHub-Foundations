@@ -330,3 +330,19 @@ A new vulnerability has been detected in a dependency
 **A pull request is opened**
 
 [💡Hint](https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows#about-events-that-trigger-workflows)
+
+## What are the possible statuses for a pull request review? (Choose three.)
+
+**Approve**
+
+Close
+
+**Comment**
+
+**Request Changes**
+
+Deny
+
+Applaud
+
+[💡Hint](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/about-pull-request-reviews#about-pull-request-reviews)
