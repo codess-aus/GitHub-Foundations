@@ -561,3 +561,77 @@ Amount of forks of the repo
 
 You can use Pulse to see an overview of a repository's pull request, issue, and commit activity. Pulse includes a list of open and merged pull requests, open and closed issues, and a graph showing the commit activity for the top 15 users who committed to the default branch of the project in the selected time period. If you want to see a detailed history of changes to a repository, you can use the activity view. The activity view displays all pushes, merges, force pushes, and branch changes, and associates these changes with commits and authenticated users.
 
+## How can you start using GitHub Copilot after activating the GitHub Copilot subscription?
+
+**Setup GitHub Copilot in one of the supported IDE's such as Visual Studio Code or JetBrains and start coding**
+
+You need to edit the repository settings and enable GitHub Copilot for the repository
+
+GitHub Copilot will automatically start giving suggestions on pull requests and issues in your repository
+
+You need to setup a GitHub Action that will setup GitHub Copilot on your repository
+
+[💡Hint](https://docs.github.com/en/copilot/using-github-copilot/getting-started-with-github-copilot)
+
+## What is the effect of adding a line Closes #11 to the pull request's description?
+
+That pull request will be automatically merged on the 11th of that month.
+
+Once that pull request is merged, the #11th branch will be deleted automatically.
+
+That pull request will be automatically merged once the issue #11 is closed.
+
+Once that pull request is merged, the pull request #11 will be deleted automatically.
+
+**Once that pull request is merged, the issue #11 will be closed automatically.**
+
+[💡Hint](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/using-keywords-in-issues-and-pull-requests#linking-a-pull-request-to-an-issue)
+
+## What is the name of GitHub's continuous integration and continuous delivery (CI/CD) platform?
+
+GitHub Pipelines
+
+GitHub Workflows
+
+**GitHub Actions**
+
+GitHub Projects
+
+[💡Hint](https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions)
+
+## You want to merge changes from branch feature-a into main and you are creating a pull request. Which branch should be the base branch and which branch should be the compare branch?
+
+feature-a is the base branch and main is the compare branch.
+
+**main is the base branch and feature-a is the compare branch.**
+
+[💡Hint](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-comparing-branches-in-pull-requests)
+
+When you want to merge changes from branch feature-a into main and you are creating a pull request, main should be the base branch and feature-a should be the compare branch.
+
+This setup ensures that the changes from feature-a are compared against the main branch, and once the pull request is merged, the changes will be incorporated into the main branch.
+
+## How can you enforce status checks passing before merging a pull request to the main branch?
+
+By running tests locally prior to pushing to the remote repository
+
+By using GitHub Actions
+
+**By creating a branch protection rule**
+
+By making the repository private
+
+[💡Hint](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/about-protected-branches#about-branch-protection-settings)
+
+## Which of these is true regarding custom fields for items in GitHub Projects?
+
+Custom fields are limited to predefined options and cannot include user-defined metadata.
+
+**Custom fields enable the addition of metadata beyond the built-in options, such as target dates and iteration fields.**
+
+Custom fields are limited to textual information and cannot include numeric or date-related metadata.
+
+Custom fields are exclusively for aesthetic modifications and do not add any meaningful metadata.
+
+[💡Hint](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects#adding-metadata-to-your-items)
+
