@@ -484,5 +484,14 @@ Security managers are organization members who, in addition to their permissions
 
 Security manager: Grants the ability to manage security policies, security alerts, and security configurations for an organization and all its repositories.
 
+## Which of these GitHub features serves the purpose of an adaptable spreadsheet, task board and a roadmap that integrates with issues and pull requests on GitHub to plan and track your work effectively?
+
+**GitHub Project**
+
+GitHub Copilot
+
+GitHub Repository
+
+GitHub Organization
 
 
