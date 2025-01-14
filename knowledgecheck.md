@@ -649,3 +649,11 @@ Commit
 
 [💡Hint](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
 
+## Can you change a gist from public to secret after creating it?
+
+**No**
+
+Yes
+
+[💡Hint](https://docs.github.com/en/get-started/writing-on-github/editing-and-sharing-content-with-gists/creating-gists)
+
