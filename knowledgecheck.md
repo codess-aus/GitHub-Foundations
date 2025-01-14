@@ -635,3 +635,17 @@ Custom fields are exclusively for aesthetic modifications and do not add any mea
 
 [💡Hint](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects#adding-metadata-to-your-items)
 
+## In GitHub a proposal to merge a set of changes from one branch into another branch is called a:
+
+**Pull Request**
+
+A merge branch
+
+Issue
+
+Gist
+
+Commit
+
+[💡Hint](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
+
