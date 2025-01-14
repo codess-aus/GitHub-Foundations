@@ -517,4 +517,15 @@ Categorizing files in the repository
 
 [💡Hint](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/managing-labels)
 
+## Where can you disable repository features such as issues, wikis or projects on a repository that you own?
+
+In your account settings
+
+These features cannot be disabled
+
+In the .github/settings.yml configuration file
+
+**In the repository settings**
+
+[💡Hint](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/enabling-features-for-your-repository)
 
