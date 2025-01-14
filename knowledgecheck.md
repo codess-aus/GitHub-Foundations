@@ -541,4 +541,23 @@ A fork is the state of a repository when it is not up to date with the remote re
 
 [💡Hint](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/about-forks)
 
+## Which information can be found in the Pulse section in the Insights tab of a repository? (Choose four)
+
+List of unresolved conversations
+
+**Summary of repository activity**
+
+**Pull requests open/merged ratio**
+
+**List of issue discussions**
+
+Amount of code line additions and deletions
+
+Amount of forks of the repo
+
+[💡Hint](https://docs.github.com/en/repositories/viewing-activity-and-data-for-your-repository/using-pulse-to-view-a-summary-of-repository-activity)
+
+![pulse](https://github.com/codess-aus/GitHub-Foundations/blob/a0aa68ed03b2af986119ebffb216e4d6abd01889/images/pulse.jpg)
+
+You can use Pulse to see an overview of a repository's pull request, issue, and commit activity. Pulse includes a list of open and merged pull requests, open and closed issues, and a graph showing the commit activity for the top 15 users who committed to the default branch of the project in the selected time period. If you want to see a detailed history of changes to a repository, you can use the activity view. The activity view displays all pushes, merges, force pushes, and branch changes, and associates these changes with commits and authenticated users.
 
