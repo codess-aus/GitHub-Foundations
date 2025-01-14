@@ -470,7 +470,19 @@ Configure recommended templates to your organization's members
 
 [💡Hint](https://docs.github.com/en/issues/planning-and-tracking-with-projects/managing-your-project/managing-project-templates-in-your-organization)
 
+## What is the role of an organization security manager?
 
+Security managers are organization members who can manage the billing settings for your organization, such as payment information.
+
+Security managers are organization members who have complete access to the organization.
+
+**Security managers are organization members who can view security alerts and manage settings for code security across your organization, as well as read permissions for all repositories in the organization.**
+
+Security managers are organization members who, in addition to their permissions as members, are allowed to block and unblock non-member contributors, set interaction limits, and hide comments in public repositories owned by the organization.
+
+[💡Hint](https://docs.github.com/en/organizations/managing-peoples-access-to-your-organization-with-roles/roles-in-an-organization)
+
+Security manager: Grants the ability to manage security policies, security alerts, and security configurations for an organization and all its repositories.
 
 
 
