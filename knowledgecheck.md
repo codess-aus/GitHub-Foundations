@@ -505,4 +505,16 @@ It's a GitHub pricing plan for personal accounts that offers additional features
 It's a self hosted version of GitHub that you can install on your own servers or personal computer.
 [💡Hint](https://docs.github.com/en/desktop)
 
+## What are the use cases for labels?
+
+Assigning them to releases so that they are included in the release notes
+
+**Categorizing issues and pull requests**
+
+Assigning labels to repository contributors to indicate their role and permissions in the project
+
+Categorizing files in the repository
+
+[💡Hint](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/managing-labels)
+
 
