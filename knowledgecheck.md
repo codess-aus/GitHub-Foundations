@@ -667,4 +667,17 @@ GitHub private repositories
 
 **GitHub Marketplace**
 
-💡 https://docs.github.com/en/actions/creating-actions/publishing-actions-in-github-marketplace
+[💡](https://docs.github.com/en/actions/creating-actions/publishing-actions-in-github-marketplace)
+
+## What is one of the main benefits for using a Personal Access Token (PAT) instead of a standard username and password for GitHub authentication?
+
+**PAT can be used for authentication to GitHub when using the GitHub API or the command line. Users generate a token via the GitHub's settings option, and tie the token permissions to a repository or organization.**
+
+PAT lets you authenticate GitHub Enterprise Server against your existing accounts and centrally manage repository access.
+
+PATs can be managed by the organization and enterprise.
+
+PAT is an extra layer of security used when logging into websites or apps. With PAT, users have to sign in with their username and password and provide another form of authentication that only they have access to.
+
+[💡](https://learn.microsoft.com/en-us/training/modules/github-introduction-administration/3-how-github-authentication-works)
+
