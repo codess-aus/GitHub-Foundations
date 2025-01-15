@@ -657,3 +657,14 @@ Yes
 
 [💡Hint](https://docs.github.com/en/get-started/writing-on-github/editing-and-sharing-content-with-gists/creating-gists)
 
+## Where can you find publicly available GitHub Actions?
+
+GitHub Public Action Storage
+
+GitHub Actions Project Boards
+
+GitHub private repositories
+
+**GitHub Marketplace**
+
+💡 https://docs.github.com/en/actions/creating-actions/publishing-actions-in-github-marketplace
