@@ -709,3 +709,17 @@ Agile layout
 
 [💡](https://docs.github.com/en/issues/planning-and-tracking-with-projects/customizing-views-in-your-project/changing-the-layout-of-a-view)
 
+## Which of these workflows are built-in automations in GitHub Projects? (Choose two.)
+
+**When issues or pull requests in your project are closed, their status is set to Done**
+
+When a new contributor is added to a repository, the unassigned issues are assigned to him.
+
+When issues or pull requests are opened in your project, their status is set to Done.
+
+When a GitHub Action is triggered, create a new item in your GitHub Project.
+
+**When pull requests in your project are merged, their status is set to Done.**
+
+[💡](https://docs.github.com/en/issues/planning-and-tracking-with-projects/automating-your-project/using-the-built-in-automations)
+
