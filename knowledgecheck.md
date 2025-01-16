@@ -693,3 +693,19 @@ Updates to the issues and pull requests will not be automatically reflected in G
 
 [💡](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects#staying-up-to-date)
 
+## Which of these layouts are available in GitHub Projects? (Choose three.)
+
+**Roadmap layout**
+
+Scrum layout
+
+Project layout
+
+**Table layout**
+
+**Board layout**
+
+Agile layout
+
+[💡](https://docs.github.com/en/issues/planning-and-tracking-with-projects/customizing-views-in-your-project/changing-the-layout-of-a-view)
+
