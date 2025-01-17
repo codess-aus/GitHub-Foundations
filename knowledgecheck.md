@@ -742,3 +742,14 @@ When a GitHub Action is triggered, create a new item in your GitHub Project.
 
 [💡](https://docs.github.com/en/issues/planning-and-tracking-with-projects/automating-your-project/using-the-built-in-automations)
 
+## If you face yourself often writing the same set of comments on issues or pull requests, what GitHub feature would you use to save time?
+
+Comment templates
+
+Labels
+
+**Saved replies**
+
+Repository templates
+[💡](https://docs.github.com/en/get-started/writing-on-github/working-with-saved-replies/using-saved-replies)
+
