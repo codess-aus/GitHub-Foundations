@@ -715,6 +715,25 @@ Agile layout
 
 When a new contributor is added to a repository, the unassigned issues are assigned to him.
 
+## What are the different options that allow you to automate operations in your GitHub Project? (Choose three.)
+
+**Project workflows**
+
+GitHub Dependabot
+
+GitHub Copilot
+
+**GitHub GraphQL API**
+
+GitHub Charts
+
+Project items
+
+**GitHub Actions**
+
+[💡](https://docs.github.com/en/issues/planning-and-tracking-with-projects/automating-your-project/)
+
+
 When issues or pull requests are opened in your project, their status is set to Done.
 
 When a GitHub Action is triggered, create a new item in your GitHub Project.
