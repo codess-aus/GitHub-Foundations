@@ -805,6 +805,22 @@ Root directory, .docs directory, .github directory
 
 [💡](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
 
+## Which of the following Git commands allow you to create a new branch and start working on it in one line? (Select two.)
+
+git branch -c <new_branch_name>
+
+git merge -m <new_branch_name>
+
+git checkout -m <new_branch_name>
+
+**git switch -c <new_branch_name>**
+
+**git checkout -b <new_branch_name>**
+
+git switch -m <new_branch_name>
+
+[💡](https://git-scm.com/docs/git-switch)
+
 
 
 
