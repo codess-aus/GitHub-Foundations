@@ -765,6 +765,25 @@ When someone comments on your issue or pull request, you can save their reply an
 
 [💡](https://docs.github.com/en/get-started/writing-on-github/working-with-saved-replies/using-saved-replies)
 
+## Which of these statements about GitHub Enterprise deployment options are true? (Select two.)
+
+GitHub Enterprise Cloud is a self-hosted platform that runs on the company's infrastructure
+
+**GitHub Enterprise Cloud is a cloud hosted platform that runs on the company's cloud infrastructure**
+
+GitHub Enterprise Server is a set of advanced functionality on GitHub.com
+
+**GitHub Enterprise Server is a self-hosted platform that runs on the company's infrastructure**
+
+GitHub Enterprise Cloud is a set of advanced functionality on GitHub.com
+
+[💡](https://docs.github.com/en/enterprise-cloud@latest/admin/overview/about-github-for-enterprises#about-deployment-options)
+
+
+
+
+
+
 
 
 
