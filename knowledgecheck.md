@@ -821,6 +821,23 @@ git switch -m <new_branch_name>
 
 [💡](https://git-scm.com/docs/git-switch)
 
+## What are the different GitHub pricing plans for organization accounts? (Select three.)
+
+**Team**
+
+Advanced
+
+Business
+
+Pro
+
+Personal
+
+**Free**
+
+**Enterprise**
+
+[💡](https://github.com/pricing)
 
 
 
