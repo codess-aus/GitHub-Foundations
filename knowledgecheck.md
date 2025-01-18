@@ -779,6 +779,27 @@ GitHub Enterprise Cloud is a set of advanced functionality on GitHub.com
 
 [💡](https://docs.github.com/en/enterprise-cloud@latest/admin/overview/about-github-for-enterprises#about-deployment-options)
 
+## How can you link a pull request to an issue? (Choose two.)
+
+By including the issue number in the commit message.
+
+By using a keyword in the pull request description and referencing the issue title.
+
+By including the issue number in the code changes.
+
+**Manually from either the pull request or the issue view.**
+
+**By using a keyword in the pull request description and referencing the issue number.**
+
+[💡](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue)
+
+
+
+
+
+
+
+
 
 
 
