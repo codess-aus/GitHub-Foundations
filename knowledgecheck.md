@@ -793,6 +793,18 @@ By including the issue number in the code changes.
 
 [💡](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue)
 
+## If there are multiple Readme.md files in a GitHub repository, what is the priority order to show them?
+
+Root directory, .docs directory, .github directory
+
+.docs directory, .github directory, Root directory
+
+**.github directory, Root directory, .docs directory**
+
+.docs directory, Root directory, .github directory
+
+[💡](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
+
 
 
 
