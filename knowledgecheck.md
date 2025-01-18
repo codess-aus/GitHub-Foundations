@@ -543,15 +543,15 @@ A fork is the state of a repository when it is not up to date with the remote re
 
 ## Which information can be found in the Pulse section in the Insights tab of a repository? (Choose four)
 
-List of unresolved conversations
+**List of unresolved conversations**
 
 **Summary of repository activity**
 
 **Pull requests open/merged ratio**
 
-**List of issue discussions**
+List of issue discussions
 
-Amount of code line additions and deletions
+**Amount of code line additions and deletions**
 
 Amount of forks of the repo
 
@@ -769,13 +769,13 @@ When someone comments on your issue or pull request, you can save their reply an
 
 GitHub Enterprise Cloud is a self-hosted platform that runs on the company's infrastructure
 
-**GitHub Enterprise Cloud is a cloud hosted platform that runs on the company's cloud infrastructure**
+GitHub Enterprise Cloud is a cloud hosted platform that runs on the company's cloud infrastructure
 
 GitHub Enterprise Server is a set of advanced functionality on GitHub.com
 
 **GitHub Enterprise Server is a self-hosted platform that runs on the company's infrastructure**
 
-GitHub Enterprise Cloud is a set of advanced functionality on GitHub.com
+**GitHub Enterprise Cloud is a set of advanced functionality on GitHub.com**
 
 [💡](https://docs.github.com/en/enterprise-cloud@latest/admin/overview/about-github-for-enterprises#about-deployment-options)
 
@@ -862,6 +862,18 @@ A commit refers to the code changes made to a repository in a pull request.
 A commit refers to a new or updated file in a repository.
 
 [💡](https://docs.github.com/en/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/about-commits)
+
+## What are the different repository visibility options?
+
+Personal and Public
+
+**Private, Public and Internal (Enterprise only)**
+
+Personal, Public and Internal (Enterprise only)
+
+Private and Public
+
+[💡](https://docs.github.com/en/enterprise-cloud@latest/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/setting-repository-visibility)
 
 
 
